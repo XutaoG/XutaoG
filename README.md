@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @XutaoG
-- 👀 I’m interested in Computer Science
-- 📫 How to reach me through gaoxutao04@gmail.com
+- Hi, I'm Xutao Gao
+- Computer Science Student at University of Central Florida Student (Estimate Graduation Month: Spring/2026)
+- Reach me through taogeeee@gmail.com
 
 <!---
 XutaoG/XutaoG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
