@@ -1,5 +1,5 @@
 - Hi, I'm Xutao Gao
-- Computer Science Student at University of Central Florida Student (Estimate Graduation Month: Spring/2026)
+- Computer Science Student at University of Central Florida Student (Estimated Graduation Month: Spring/2026)
 - Reach me through taogeeee@gmail.com
 
 <!---
